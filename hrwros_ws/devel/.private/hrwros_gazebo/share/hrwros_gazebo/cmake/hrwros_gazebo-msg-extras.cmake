@@ -1,0 +1,2 @@
+set(hrwros_gazebo_MESSAGE_FILES "/home/abu/hrwros_ws/src/hrwros_gazebo/msg/ConveyorBeltState.msg;/home/abu/hrwros_ws/src/hrwros_gazebo/msg/VacuumGripperState.msg;/home/abu/hrwros_ws/src/hrwros_gazebo/msg/Proximity.msg;/home/abu/hrwros_ws/src/hrwros_gazebo/msg/Model.msg;/home/abu/hrwros_ws/src/hrwros_gazebo/msg/LogicalCameraImage.msg")
+set(hrwros_gazebo_SERVICE_FILES "/home/abu/hrwros_ws/src/hrwros_gazebo/srv/ConveyorBeltControl.srv;/home/abu/hrwros_ws/src/hrwros_gazebo/srv/VacuumGripperControl.srv")

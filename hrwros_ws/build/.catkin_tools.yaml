@@ -1,0 +1,6 @@
+devel_space: /home/abu/hrwros_ws/devel
+install: false
+install_space: /home/abu/hrwros_ws/install
+profile: default
+source_space: /home/abu/hrwros_ws/src
+workspace: /home/abu/hrwros_ws

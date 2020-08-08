@@ -1,0 +1,1 @@
+/home/abu/hrwros_ws/devel/.private/hrwros_week3/lib/pkgconfig/hrwros_week3.pc

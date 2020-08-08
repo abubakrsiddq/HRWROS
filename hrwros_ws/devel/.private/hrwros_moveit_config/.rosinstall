@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/abu/hrwros_ws/devel/.private/hrwros_moveit_config/setup.sh

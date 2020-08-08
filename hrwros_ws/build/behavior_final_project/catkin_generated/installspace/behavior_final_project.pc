@@ -1,0 +1,8 @@
+prefix=/home/abu/hrwros_ws/install
+
+Name: behavior_final_project
+Description: Description of behavior_final_project
+Version: 1.0.0
+Cflags: -I/home/abu/hrwros_ws/install/include
+Libs: -L/home/abu/hrwros_ws/install/lib -lbehavior_final_project
+Requires: 

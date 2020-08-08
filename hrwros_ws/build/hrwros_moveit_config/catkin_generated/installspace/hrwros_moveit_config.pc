@@ -1,0 +1,8 @@
+prefix=/home/abu/hrwros_ws/install
+
+Name: hrwros_moveit_config
+Description: Description of hrwros_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/abu/hrwros_ws/install/lib 
+Requires: 
